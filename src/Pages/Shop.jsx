@@ -3,7 +3,7 @@ import Hero from "../Components/Hero";
 import Popular from "../Components/Popular";
 import Offers from "../Components/Offers";
 import NewCollections from "../Components/NewCollections";
-import NewsLetter from "../Components/NewSletter";
+import NewsLetter from "../Components/Newsletter";
 
 
 function Shop() {
